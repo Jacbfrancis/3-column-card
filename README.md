@@ -75,7 +75,7 @@ applying media query for mobile:
 
 ### Continued development
 
-My focus now will be on learning the concept of mobile first workflow and Tailwind.
+My focus now will be on learning the concept of mobile first workflow and Tailwind CSS.
 
 ### Useful resources
 
