@@ -35,8 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live Site](https://jacbfrancis.github.io/3-column-card/)
 
 ## My process
 
@@ -73,20 +72,20 @@ applying media query for mobile:
 }
 ```
 
+I also learnt how to use flexbox to to lay a collection of items out in one direction or another as well control spacing between items.
+
 ### Continued development
 
-My focus now will be on learning the concept of mobile first workflow and Tailwind CSS.
+My focus now will be on getting the hang of css flexbox and media Queries .
 
 ### Useful resources
 
 - [Responsive web design with media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - This is an amazing article which helped me understand Responsive Web design and Media queries. I'd recommend it to anyone still learning this concept.
-
 - [Google fonts](https://fonts.google.com/) - This helped me to implement fonts on the website, so no trouble with font embedding.
 
 
 ## Author
 
 - Website - [ Francis Jacob](https://github.com/Jacbfrancis)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jacbfrancis)
 - Twitter - [@jacobxavier_](https://twitter.com/jacobxavier_?t=YdJHQngdQYJVbC7mWspqDg&s=08)
 
