@@ -76,7 +76,7 @@ I also learnt how to use flexbox to to lay a collection of items out in one dire
 
 ### Continued development
 
-My focus now will be on getting the hang of css flexbox and media Queries .
+Get used to working with Media Queries and CSS flexbox.
 
 ### Useful resources
 
